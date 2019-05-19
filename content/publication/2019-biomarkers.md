@@ -4,7 +4,7 @@ title = "Systemic and stratum corneum biomarkers of severity in infant AD includ
 date = "2019"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["M.A. Mc Aleer", "I. Jakasa", "G. Hurault", "P. Sarvari", "W.H.I. McLean", "R.J. Tanaka", "S. Kezic", "A.D. Irvine"]
+authors = ["M.A. Mc Aleer", "I. Jakasa", "**Guillem Hurault**", "P. Sarvari", "W.H.I. McLean", "R.J. Tanaka", "S. Kezic", "A.D. Irvine"]
 
 # Publication type.
 # Legend:
