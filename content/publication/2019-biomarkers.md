@@ -18,7 +18,7 @@ authors = ["M.A. Mc Aleer", "I. Jakasa", "G. Hurault", "P. Sarvari", "W.H.I. McL
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version. You may use *Markdown* for italics etc.
-publication = "British Journal of Dermatology}, vol. 180, no. 3, pp. 586–596"
+publication = "British Journal of Dermatology, vol. 180, no. 3, pp. 586–596"
 publication_short = "In BJD"
 
 # Abstract and optional shortened version.
@@ -66,6 +66,3 @@ caption = ""
 
 +++
 
-# Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
-
-Test
