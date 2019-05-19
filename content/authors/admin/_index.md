@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Phd student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#mailto:guillem.hurault@hotmail.fr'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:guillem.hurault@hotmail.fr'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ghurault/
@@ -76,6 +76,6 @@ email: ""
 # - Visitors
 ---
 
-I am a research assistant and PhD student in the Biological Control Systems Lab, under the supervision of Dr Reiko Tanaka.
+I am a research assistant and PhD student in the [Biological Control Systems Lab](http://www.bg.ic.ac.uk/research/r.tanaka/index.html), under the supervision of Dr Reiko Tanaka.
 
 My research is on the development of statistical machine learning models to predict and control eczema, with a particular interest in Bayesian statistics and time-series forecasting.
