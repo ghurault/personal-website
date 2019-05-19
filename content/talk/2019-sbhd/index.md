@@ -3,7 +3,7 @@ title = "A Bayesian Hidden Markov model to predict the dynamic evolution of dise
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date = 2019-05-19T20:59:38+01:00
+date = 2019-05-27
 #date_end = 2019-05-19T20:59:38+01:00
 all_day = false
 
@@ -53,7 +53,7 @@ url_slides = ""
 projects = []
 
 # Links (optional).
-url_pdf = "static/files/Poster_SBHD_2019_vf.pdf"
+url_pdf = "Poster_SBHD_2019_vf.pdf"
 url_video = ""
 url_code = ""
 
