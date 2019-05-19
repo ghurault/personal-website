@@ -37,7 +37,7 @@ education:
     year: 2017
   - course: Bachelor in Economics
     institution: Université Lyon 2 (FR)
-	year: 2016
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
