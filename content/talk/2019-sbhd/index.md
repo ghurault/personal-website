@@ -49,7 +49,7 @@ url_slides = ""
 projects = []
 
 # Links (optional).
-url_pdf = "Poster_SBHD_2019_vf.pdf"
+url_pdf = "files/Poster_SBHD_2019_vf.pdf"
 url_video = ""
 url_code = ""
 
