@@ -3,12 +3,9 @@ title = "A Bayesian Hidden Markov model to predict the dynamic evolution of dise
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-05-27
+date = "27 May 2019"
 #date_end = 2019-05-19T20:59:38+01:00
-all_day = false
-
-# Schedule page publish date (NOT talk date).
-#publishDate = 2019-05-19T20:59:38+01:00
+all_day = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Guillem Hurault"]
