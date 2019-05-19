@@ -25,10 +25,10 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "British Journal of Dermatology, vol. 180, no. 3, pp. 586–596"
-publication_short = ""
+publication_short = "British Journal of Dermatology"
 
 # Abstract.
-abstract = ""
+abstract = "BACKGROUND Biomarkers of atopic dermatitis (AD) are largely lacking, especially in infant AD. Those that have been examined to date have focused mostly on serum cytokines with few on non-invasive biomarkers in the skin. OBJECTIVES We aimed to explore biomarkers obtainable from non-invasive sampling of infant skin. We compared these to plasma biomarkers and structural and functional measures of the skin barrier. METHODS We recruited 100 infants at first presentation with AD, who were treatment naïve to topical or systemic anti-inflammatory therapies and 20 healthy children. We sampled clinically unaffected skin by tape stripping the stratum corneum (SC). Multiple cytokines and chemokines and natural moisturizing factors (NMF) were measured in the SC and plasma. We recorded disease severity and skin barrier function. RESULTS 19 SC and 12 plasma biomarkers showed significant difference between healthy and AD skin. Some biomarkers were common to both the SC and plasma, and others were compartment-specific. Identified biomarkers of AD severity included Th2 skewed markers (IL-13, CCL17, CCL22, IL-5), markers of innate activation (IL-18, Il-1α, IL1β, CXCL8), angiogenesis (Flt-1, VEGF) and others (sICAM-1, vCAM-1, IL-16, IL-17A). CONCLUSIONS We identified clinically relevant biomarkers of AD, including novel markers, easily sampled and typed in infants. These markers may provide objective assessment of disease severity and suggest new therapeutic targets, or response measurement targets for AD. Future studies will be required to determine if these biomarkers, seen in very early AD, can predict disease outcomes or comorbidities."
 
 # Summary. An optional shortened abstract.
 summary = ""
