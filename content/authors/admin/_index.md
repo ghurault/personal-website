@@ -18,7 +18,7 @@ organizations:
   url: "https://www.imperial.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Statistics
@@ -33,7 +33,7 @@ education:
     institution: Ecole Centrale de Lyon (FR)
     year: 2018
   - course: MSc in Biomedical Enginering
-    institution: Imperial College London
+    institution: Imperial College London (UK)
     year: 2017
   - course: Bachelor in Economics
     institution: Université Lyon 2 (FR)
@@ -53,12 +53,13 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ghurault
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Jjv2KGQAAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/ghurault
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Jjv2KGQAAAAJ&hl
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
