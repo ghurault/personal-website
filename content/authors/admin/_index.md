@@ -76,6 +76,6 @@ email: ""
 # - Visitors
 ---
 
-I am a research assistant and PhD student in the [Biological Control Systems Lab](http://www.bg.ic.ac.uk/research/r.tanaka/index.html), under the supervision of Dr Reiko Tanaka.
+I am a research assistant and PhD student in the [Biological Control Systems Lab](http://www.bg.ic.ac.uk/research/r.tanaka/index.html), under the supervision of [Dr Reiko Tanaka](https://www.imperial.ac.uk/people/r.tanaka), in the Department of Bioengineering of Imperial College London.
 
 My research is on the development of statistical machine learning models to predict and control eczema, with a particular interest in Bayesian statistics and time-series forecasting.
