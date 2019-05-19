@@ -1,23 +1,24 @@
 +++
-title = "A Bayesian Hidden Markov model to predict the dynamic evolution of disease severity in eczema"
+title = "Test"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-05-27T12:00:00+01:00
-all_day = true
+date = 2019-05-19T21:25:47+01:00
+date_end = 2019-05-19T21:25:47+01:00
+all_day = false
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2019-05-19T21:25:47+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Guillem Hurault"]
+authors = []
 
 # Location of event.
-location = "Berlin, Germany"
+location = ""
 
 # Name of event and optional event URL.
-event = "International Conference on Systems Biology of Human Diseases"
-event_url = "https://www.sbhdberlin.org/"
+event = ""
+event_url = ""
 
 # Abstract. What's your talk about?
 abstract = ""
@@ -30,7 +31,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["poster"]
+tags = []
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.
@@ -52,7 +53,7 @@ url_slides = ""
 projects = []
 
 # Links (optional).
-url_pdf = "files/Poster_SBHD_2019_vf.pdf"
+url_pdf = ""
 url_video = ""
 url_code = ""
 
