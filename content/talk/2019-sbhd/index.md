@@ -3,7 +3,7 @@ title = "A Bayesian Hidden Markov model to predict the dynamic evolution of dise
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = "27 May 2019"
+date = "2019-05-19T20:59:38+01:00"
 #date_end = 2019-05-19T20:59:38+01:00
 all_day = true
 
