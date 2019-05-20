@@ -10,7 +10,7 @@ cd ..
 
 cd ghurault.github.io
 
-cp -av D:/Mes Documents/Github/personal-website/public/* .
+cp -av D/Mes Documents/Github/personal-website/public/* .
 
 
 # Add changes to git.
