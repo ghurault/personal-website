@@ -1,14 +1,14 @@
 +++
-title = "Systemic and stratum corneum biomarkers of severity in infant AD include markers of innate and Th-related immunity and angiogenesis"
+title = "Relationship and probabilistic stratification of EASI and oSCORAD severity scores for atopic dermatitis"
 
 # Publication date.
-date = 2019-01-01T12:00:00+01:00
+date = 2018-06-26T12:00:00+01:00
 
 # Schedule page publish date.
-publishDate = 2019-05-19T22:07:14+01:00
+publishDate = 2019-05-20T18:24:25+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["M.A. Mc Aleer", "I. Jakasa", "G. Hurault", "P. Sarvari", "W.H.I. McLean", "R.J. Tanaka", "S. Kezic", "A.D. Irvine"]
+authors = ["G. Hurault", "M.E. Schram", "E. Roekevisch", "P.I. Spuls", "R.J. Tanaka"]
 
 # Publication type.
 # Legend:
@@ -24,7 +24,7 @@ authors = ["M.A. Mc Aleer", "I. Jakasa", "G. Hurault", "P. Sarvari", "W.H.I. McL
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "British Journal of Dermatology, vol. 180, no. 3, pp. 586–596"
+publication = "British Journal of Dermatology, vol. 179, no. 4, pp. 1003-1005"
 publication_short = "British Journal of Dermatology"
 
 # Abstract.
@@ -34,7 +34,7 @@ abstract = ""
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1111/bjd.17088"
+doi = "10.1111/bjd.16916"
 
 # Is this a featured publication? (true/false)
 featured = false
