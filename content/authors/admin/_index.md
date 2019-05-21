@@ -21,8 +21,11 @@ organizations:
 bio: 
 
 interests:
-- Statistics
-- Machine Learning
+- Statistical Machine Learning
+- Mathematical modelling
+- Data visualisation
+- Eczema research
+- Open science
 
 education:
   courses:
