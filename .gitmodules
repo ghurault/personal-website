@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/ghurault/ghurault.github.io.git
 	branch = master
+[submodule "ghurault.github.io"]
+	path = ghurault.github.io
+	url = https://github.com/ghurault/ghurault.github.io.git
+	branch = master
