@@ -7,7 +7,7 @@ hugo
 # Upload the public submodule to github
 cd public 
 git add .
-git commit -m "Build website"
+git commit -m "Redeployment"
 git push origin master
 # Come back
 cd ..
