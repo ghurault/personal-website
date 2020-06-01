@@ -61,7 +61,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/ghurault/conversion-stratification"
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -71,7 +71,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Web app", url = "https://tanaka-group-imperial.shinyapps.io/ConversionStratification/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
