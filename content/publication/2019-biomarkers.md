@@ -25,7 +25,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "British Journal of Dermatology, vol. 180, no. 3, pp. 586–596"
-publication_short = "Br J Dermatol."
+publication_short = ""
 
 # Abstract.
 abstract = ""
