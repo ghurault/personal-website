@@ -2,7 +2,7 @@
 
 Code to generate my personal website, hosted at https://ghurault.github.io/.
 
-The website is created using the [Academic theme]](https://sourcethemes.com/academic/) powered by [Hugo](https://gohugo.io/) and forked from the [Academic Kicstart repository](https://github.com/sourcethemes/academic-kickstart).
+The website is created using the [Academic theme](https://sourcethemes.com/academic/) powered by [Hugo](https://gohugo.io/) and forked from the [Academic Kicstart repository](https://github.com/sourcethemes/academic-kickstart).
 
 * [Documentation](https://sourcethemes.com/academic/docs/)
 * [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
