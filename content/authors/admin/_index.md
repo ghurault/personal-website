@@ -25,7 +25,7 @@ interests:
 - Mathematical modelling
 - Data visualisation
 - Eczema research
-- Open science
+- Open science.
 
 education:
   courses:
