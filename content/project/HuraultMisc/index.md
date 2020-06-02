@@ -3,7 +3,7 @@
 
 title: "HuraultMisc"
 summary: "Personal R package."
-authors: ["admin"]
+authors: ["G. Hurault"]
 tags: []
 categories: []
 date: 2019-06-28T12:00:00+01:00

@@ -3,7 +3,7 @@
 
 title: "Lokta-Volterra competition model in Stan"
 summary: "Fitting a two-species Lokta-Volterra competition model using data from multiple experiments in Stan."
-authors: ["admin"]
+authors: ["G. Hurault"]
 tags: []
 categories: []
 date: 2019-04-12T12:00:00+01:00

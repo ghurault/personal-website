@@ -3,7 +3,7 @@
 
 title: "Football Prediction"
 summary: "Modelling football outcomes in Stan."
-authors: ["admin"]
+authors: ["G. Hurault"]
 tags: []
 categories: []
 date: 2019-11-26T12:00:00+01:00

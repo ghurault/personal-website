@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "miRNA analysis of Childhood Atopic Dermatitis reveals a role for miR-451a"
-authors: ["J. Nousbeck", "M.A. McAleer", "admin", "E. Kenny", "K. Harte", "S. Kezic", "R.J. Tanaka", "A.D. Irvine"]
+authors: ["J. Nousbeck", "M.A. McAleer", "G. Hurault", "E. Kenny", "K. Harte", "S. Kezic", "R.J. Tanaka", "A.D. Irvine"]
 date: 2020-06-02T08:49:43+01:00
 doi: "10.1111/bjd.19254"
 

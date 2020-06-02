@@ -3,7 +3,7 @@
 
 title: "Streetmaps"
 summary: "Making streetmaps using OpenStreetMap and ggplot2 in R."
-authors: ["admin"]
+authors: ["G. Hurault"]
 tags: []
 categories: []
 date: 2020-01-08T12:00:00+01:00
