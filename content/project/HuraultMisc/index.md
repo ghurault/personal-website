@@ -3,10 +3,10 @@
 
 title: "HuraultMisc"
 summary: "Personal R package."
-authors: []
+authors: ["admin"]
 tags: []
 categories: []
-date: 2019-06-28T11:00:00+01:00
+date: 2019-06-28T12:00:00+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/ghurault/HuraultMisc"

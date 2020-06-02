@@ -3,7 +3,7 @@
 
 title: "Calcium imaging"
 summary: "Shiny app for calcium imaging curve analysis."
-authors: []
+authors: ["admin"]
 tags: []
 categories: []
 date: 2019-05-01T12:00:00+01:00

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Personalised prediction of daily eczema severity scores using a mechanistic machine learning model"
-authors: ["G. Hurault", "E. Domínguez-Hüttinger", "S.M. Langan", "H.C. Williams", "R.J. Tanaka"]
+authors: ["admin", "E. Domínguez-Hüttinger", "S.M. Langan", "H.C. Williams", "R.J. Tanaka"]
 date: 2020-01-18T12:00:00+01:00
 doi: "10.1101/2020.01.16.20017772"
 

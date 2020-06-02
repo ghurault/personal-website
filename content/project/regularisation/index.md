@@ -3,7 +3,7 @@
 
 title: "Regularisation"
 summary: "Case study comparing different regularisation methods for statistics and Machine Learning."
-authors: []
+authors: ["admin"]
 tags: []
 categories: []
 date: 2019-01-24T12:00:00+01:00
