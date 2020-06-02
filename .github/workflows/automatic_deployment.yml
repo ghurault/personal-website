@@ -24,4 +24,3 @@ jobs:
         HUGO_VERSION: 0.68.3
         TARGET_REPO: ghurault/ghurault.github.io
         TOKEN: ${{ secrets.TOKEN }}
-        CNAME: ghurault.github.io
