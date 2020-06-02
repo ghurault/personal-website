@@ -1,42 +1,45 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+# Academic website builder
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+Code to generate my personal website, hosted at https://ghurault.github.io/.
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+The website is created using the [Academic theme]](https://sourcethemes.com/academic/) powered by [Hugo](https://gohugo.io/) and forked from the [Academic Kicstart repository](https://github.com/sourcethemes/academic-kickstart).
 
-- [**Get Started**](#install)
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+* [Documentation](https://sourcethemes.com/academic/docs/)
+* [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
+* [Managing content](https://sourcethemes.com/academic/docs/managing-content/)
+* Ecosystem
+  * [Academic Admin](https://github.com/sourcethemes/academic-admin): An admin tool to import publications from BibTeX or import assets for an offline site
+  * [Academic Scripts](https://github.com/sourcethemes/academic-scripts): Scripts to help migrate content to new versions of Academic
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+## Note-to-self
 
-## Install
+### Deployment
 
-You can choose from one of the following four methods to install:
+The site is deployed to GitHub pages following the instructions given in https://sourcethemes.com/academic/docs/deployment/
+Namely, the github.io repository is a submodule in the public folder of the website repository.
+If, for any reason, we need to set up the submodule again, we can do it by running `./reset_submodule.sh` in bash.
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+### Editing the content
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
+The content must be edited in THIS, **personal-website**, repository.
+Widgets in the main page can be edited in the `content/home` directory.
+Publications, talks, posts, etc. are in the corresponding folder in the content directory.
 
-## Ecosystem
+### Updating the website
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+Changes to the website can be checked by running `view.sh` or alternatively, in shell `hugo server --watch`.
+A preview of the website can then be accessed at http://localhost:1313/
+
+The site can then be redeployed by navigating to the personal-website directory in bash and running `./deploy.sh`.
+This regenerate the HTML code by running hugo and push the changes to the [ghurault.github.io repository](https://github.com/ghurault/ghurault.github.io) in GitHub.
+
+If, for any reason, this does not work:
+
+- Try setting up the submodule again by running `./reset_submodule.sh` in the shell, or
+- Regenerate the site by running `hugo` in the shell and replace the content of [ghurault.github.io repository](https://github.com/ghurault/ghurault.github.io) by the `public` folder.
 
 ## License
 
 Copyright 2017-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
