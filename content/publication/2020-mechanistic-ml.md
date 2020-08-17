@@ -4,7 +4,7 @@
 title: "Personalised prediction of daily eczema severity scores using a mechanistic machine learning model"
 authors: ["G. Hurault", "E. Domínguez-Hüttinger", "S.M. Langan", "H.C. Williams", "R.J. Tanaka"]
 date: 2020-01-18T12:00:00+01:00
-doi: "10.1101/2020.01.16.20017772"
+doi: "10.1111/cea.13717"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-01-22T12:00:00+01:00
@@ -16,8 +16,8 @@ publishDate: 2020-01-22T12:00:00+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "MedRxiv"
-publication_short: ""
+publication: "Clinical & Experimental Allergy"
+publication_short: "Clinical & Experimental Allergy"
 
 abstract: ""
 
@@ -30,14 +30,14 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: MedRxiv
+  url: https://doi.org/10.1101/2020.01.16.20017772
 #   icon_pack: fab
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: "https://github.com/ghurault/mbml-eczema"
 url_dataset:
 url_poster:
 url_project:
