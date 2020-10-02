@@ -4,7 +4,7 @@
 title: "EczemaNet: Automating Detection and Severity Assessment of Atopic Dermatitis"
 authors: ["K. Pan", "G. Hurault", "K. Arulkumaran", "H. Williams", "R.J. Tanaka"]
 date: 2020-08-17T10:53:14+01:00
-doi: ""
+doi: "10.1007/978-3-030-59861-7_23"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-17T10:53:14+01:00
