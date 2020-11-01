@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Personalised prediction of daily eczema severity scores using a mechanistic machine learning model"
-authors: ["G. Hurault", "E. Domínguez-Hüttinger", "S.M. Langan", "H.C. Williams", "R.J. Tanaka"]
-date: 2020-01-18T12:00:00+01:00
-doi: "10.1111/cea.13717"
+title: "Impact of environmental factors in predicting daily severity scores of atopic dermatitis"
+authors: ["G. Hurault", "V. Delorieux", "Y-M. Kim", "K. Ahn", "H. Williams", "R.J. Tanaka"]
+date: 2020-11-01T15:53:18Z
+doi: "10.1101/2020.10.27.20220947"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-01-22T12:00:00+01:00
+publishDate: 2020-11-01T15:53:18Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: 2020-01-22T12:00:00+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Clinical & Experimental Allergy, vol. 50, no. 11, pp. 1258–1266"
-publication_short: "Clinical & Experimental Allergy"
+publication: "MedRxiv"
+publication_short: ""
 
 abstract: ""
 
@@ -30,14 +30,14 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: MedRxiv
-  url: https://doi.org/10.1101/2020.01.16.20017772
+# links:
+# - name: Follow
+#   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 
 url_pdf:
-url_code: "https://github.com/ghurault/mbml-eczema"
+url_code: "https://github.com/VDelorieux/AD-environmental_factors"
 url_dataset:
 url_poster:
 url_project:
