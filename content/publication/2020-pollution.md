@@ -3,8 +3,8 @@
 
 title: "Impact of environmental factors in predicting daily severity scores of atopic dermatitis"
 authors: ["G. Hurault", "V. Delorieux", "Y-M. Kim", "K. Ahn", "H. Williams", "R.J. Tanaka"]
-date: 2020-11-01T15:53:18Z
-doi: "10.1101/2020.10.27.20220947"
+date: 2021-04-28T12:00:00Z
+doi: "10.1002/clt2.12019"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-01T15:53:18Z
@@ -13,11 +13,11 @@ publishDate: 2020-11-01T15:53:18Z
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "MedRxiv"
-publication_short: ""
+publication: "Clinical and Translational Allergy, vol. 11, no. 2"
+publication_short: "Clinical and Translational Allergy"
 
 abstract: ""
 
@@ -30,11 +30,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: MedRxiv
+  url: https://doi.org/10.1101/2020.10.27.20220947
 
 url_pdf:
 url_code: "https://github.com/VDelorieux/AD-environmental_factors"
