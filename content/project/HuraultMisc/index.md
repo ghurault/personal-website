@@ -9,7 +9,7 @@ categories: []
 date: 2019-06-28T12:00:00+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ghurault/HuraultMisc"
+external_link: "https://ghurault.github.io/HuraultMisc/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/ghurault/HuraultMisc/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
