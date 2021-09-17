@@ -22,16 +22,16 @@ bio:
 
 interests:
 - Statistical Machine Learning
-- Mathematical modelling
-- Data visualisation
-- Eczema research
+- Bayesian modelling
+- Time-series forecasting
+- Atopic Dermatitis (eczema)
 - Open science
 
 education:
   courses:
   - course: PhD in Biomedical Engineering
     institution: Imperial College London (UK)
-    year: 2021
+    year: 2022
   - course: Master in Engineering
     institution: Ecole Centrale de Lyon (FR)
     year: 2018
