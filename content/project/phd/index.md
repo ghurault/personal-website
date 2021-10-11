@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Predicting Eczema"
-summary: "PhD thesis"
+title: "PhD project"
+summary: "Key findings from my PhD project."
 authors: ["G. Hurault"]
 tags: []
 categories: []
-date: 2021-10-08T12:00:00+00:00
+date: 2021-12-08T12:00:00+00:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -44,7 +44,7 @@ slides: ""
 
 The aim of my PhD project is to develop a data-driven pipeline to enable personalised medicine for eczema (Atopic Dermatitis, AD), notably predicting the short-term evolution of eczema severity.
 
-In this page, I summarise my contributions to the field:
+In this page, I summarise the key take-aways from my project:
 
 - We developed a computer vision pipeline, EczemaNet, to perform automatic assessments of eczema severity from camera images [^2020-eczemanet].
 - We demonstrated the possibility and the difficulty of predicting the evolution of eczema severity [^2020-mechanistic-ml].
