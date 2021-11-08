@@ -8,7 +8,7 @@ date = 2019-01-01T12:00:00+01:00
 publishDate = 2019-05-19T22:07:14+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["M.A. McAleer", "I. Jakasa", "G. Hurault", "P. Sarvari", "W.H.I. McLean", "R.J. Tanaka", "S. Kezic", "A.D. Irvine"]
+authors = ["M.A. McAleer", "I. Jakasa", "admin", "P. Sarvari", "W.H.I. McLean", "R.J. Tanaka", "S. Kezic", "A.D. Irvine"]
 
 # Publication type.
 # Legend:

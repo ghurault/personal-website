@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Stratum corneum markers of innate and T helper cell-related immunity and their relation to the disease severity in Croatian patients with atopic dermatitis"
-authors: ["R. Jurakic Toncic", "I. Jakasa", "Y. Sun", "G. Hurault", "S. Ljubojevic Hadzavdic", "R. J. Tanaka", "S. Kezic", "B. Marinovic"]
+authors: ["R. Jurakic Toncic", "I. Jakasa", "Y. Sun", "admin", "S. Ljubojevic Hadzavdic", "R. J. Tanaka", "S. Kezic", "B. Marinovic"]
 date: 2021-01-21T12:00:00Z
 doi: "10.1111/jdv.17132"
 

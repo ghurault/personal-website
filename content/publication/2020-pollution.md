@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Impact of environmental factors in predicting daily severity scores of atopic dermatitis"
-authors: ["G. Hurault", "V. Delorieux", "Y-M. Kim", "K. Ahn", "H. Williams", "R.J. Tanaka"]
+authors: ["admin", "V. Delorieux", "Y-M. Kim", "K. Ahn", "H. Williams", "R.J. Tanaka"]
 date: 2021-04-28T12:00:00Z
 doi: "10.1002/clt2.12019"
 

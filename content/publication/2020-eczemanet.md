@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "EczemaNet: Automating Detection and Severity Assessment of Atopic Dermatitis"
-authors: ["K. Pan", "G. Hurault", "K. Arulkumaran", "H. Williams", "R.J. Tanaka"]
+authors: ["K. Pan", "admin", "K. Arulkumaran", "H. Williams", "R.J. Tanaka"]
 date: 2020-08-17T10:53:14+01:00
 doi: "10.1007/978-3-030-59861-7_23"
 

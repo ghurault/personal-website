@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Can serum biomarkers predict the outcome of systemic therapy for atopic dermatitis?"
-authors: ["G. Hurault", "E. Roekevisch", "M.E. Schram", "K. Szegedi", "S. Kezic", "M.A. Middelkamp-Hup", "P.I. Spuls", "R.J. Tanaka"]
+authors: ["admin", "E. Roekevisch", "M.E. Schram", "K. Szegedi", "S. Kezic", "M.A. Middelkamp-Hup", "P.I. Spuls", "R.J. Tanaka"]
 date: 2020-12-01T16:58:59Z
 doi: "10.1101/2020.12.02.20242404"
 

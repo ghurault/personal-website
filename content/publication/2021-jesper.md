@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Immunoinflammatory Biomarkers in Serum Are Associated with Disease Severity in Atopic Dermatitis"
-authors: ["J. G. Holm", "G. Hurault", "T. Agner", "M. L. Clausen", "S. Kezic", "R. J. Tanaka", "S. F. Thomsen"]
+authors: ["J. G. Holm", "admin", "T. Agner", "M. L. Clausen", "S. Kezic", "R. J. Tanaka", "S. F. Thomsen"]
 date: 2021-03-19T12:00:00Z
 doi: "10.1159/000514503"
 

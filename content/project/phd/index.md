@@ -3,7 +3,7 @@
 
 title: "PhD project"
 summary: "Key findings from my PhD project."
-authors: ["G. Hurault"]
+authors: ["admin"]
 tags: []
 categories: []
 date: 2022-06-01T12:00:00+00:00
