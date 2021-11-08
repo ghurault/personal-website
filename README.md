@@ -20,22 +20,15 @@ The website is deployed to my user GitHub pages.
 It is automatically updated after pushing to this repository.
 This is implemented using GitHub Actions as described [here](https://www.jameswright.xyz/post/deploy-hugo-academic-using-githubio/).
 
-Previously, the site was deployed using the instructions given in the [Academic manual](https://sourcethemes.com/academic/docs/deployment/), but redeployment was to be done manually.
-This consisted in having the github.io repository as a submodule in the public folder of the website repository.
-If, for any reason, we need to set up the submodule again, we can do it by running `./reset_submodule.sh` in bash.
-Once this was set up, we could run `./deploy.sh` to regenerate the HTML code by running hugo and pushing the changes [ghurault.github.io repository](https://github.com/ghurault/ghurault.github.io) in GitHub.
-However, I sometimes had a few issues with this and I would need to either setting the submodule again or directly replacing the content of the [ghurault.github.io repository](https://github.com/ghurault/ghurault.github.io) by the `public` folder.
-Note that to make the GitHub Actions work, I had to delete the submodules.
-
 
 ### Editing the content
 
 The content must be edited in THIS, **personal-website**, repository.
-Widgets in the main page can be edited in the `content/home` directory.
+Widgets in the main page can be edited in the [`content/home`](content/home) directory.
 Publications, talks, posts, etc. are in the corresponding folder in the content directory.
 
 Changes to the website can be checked by running `view.sh` or alternatively, in shell `hugo server --watch`.
-A preview of the website can then be accessed at http://localhost:1313/
+
 
 ## License
 

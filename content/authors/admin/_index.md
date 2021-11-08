@@ -1,18 +1,14 @@
 ---
 # Display name
-name: Guillem Hurault
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Guillem Hurault
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
+# Role/position/tagline
 role: PhD student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: Imperial College London
   url: "https://www.imperial.ac.uk/"
@@ -20,6 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+# Interests to show in About widget
 interests:
 - Statistical Machine Learning
 - Bayesian modelling
@@ -27,6 +24,7 @@ interests:
 - Atopic Dermatitis (eczema)
 - Open science
 
+# Education to show in About widget
 education:
   courses:
   - course: PhD in Biomedical Engineering
@@ -43,13 +41,13 @@ education:
     year: 2016
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:guillem.hurault@hotmail.fr'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact' # 'mailto:guillem.hurault@hotmail.fr'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ghurault/
@@ -63,20 +61,18 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Jjv2KGQAAAAJ&hl
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-# user_groups:
-# - Researchers
-# - Visitors
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I am a research assistant and PhD student in the [Biological Control Systems Lab](http://www.bg.ic.ac.uk/research/r.tanaka/index.html), under the supervision of [Dr Reiko Tanaka](https://www.imperial.ac.uk/people/r.tanaka), in the Department of Bioengineering of Imperial College London.
