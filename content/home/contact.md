@@ -20,7 +20,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: ghurault.github.io
+      id: xoppqvqm
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
