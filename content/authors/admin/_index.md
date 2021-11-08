@@ -35,7 +35,7 @@ education:
   - course: Master in Engineering
     institution: Ecole Centrale de Lyon (FR)
     year: 2018
-  - course: MSc in Biomedical Enginering
+  - course: MSc in Biomedical Engineering
     institution: Imperial College London (UK)
     year: 2017
   - course: Bachelor in Economics

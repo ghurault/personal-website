@@ -6,7 +6,7 @@ summary: "Key findings from my PhD project."
 authors: ["G. Hurault"]
 tags: []
 categories: []
-date: 2021-12-08T12:00:00+00:00
+date: 2022-06-01T12:00:00+00:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
