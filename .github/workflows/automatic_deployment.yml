@@ -1,4 +1,6 @@
-# From https://www.jameswright.xyz/post/deploy-hugo-academic-using-githubio/
+# Originally from https://www.jameswright.xyz/post/deploy-hugo-academic-using-githubio/
+# Using the action https://github.com/benmatselby/hugo-deploy-gh-pages
+# Now from https://github.com/peaceiris/actions-hugo
 
 name: Build and Deploy
 
@@ -8,19 +10,28 @@ on:
       - master
 
 jobs:
-  build:
+  build-and-deploy:
 
     runs-on: ubuntu-latest
 
     steps:
+    
     - name: Checkout master
-      uses: actions/checkout@v1
+      uses: actions/checkout@v2
+    
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
       with:
-        submodules: true
+        hugo-version: 'latest'
+        extended: true
 
-    - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@master
-      env:
-        HUGO_VERSION: 0.83.1
-        TARGET_REPO: ghurault/ghurault.github.io
-        TOKEN: ${{ secrets.TOKEN }}
+    - name: Build
+      run: hugo --minify
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.TOKEN }}
+        external_repository: ghurault/ghurault.github.io
+        publish_dir: ./public
+        publish_branch: master
