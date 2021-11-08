@@ -2,14 +2,10 @@
 
 Code to generate my personal website, hosted at https://ghurault.github.io/.
 
-The website is created using the [Academic theme](https://sourcethemes.com/academic/) powered by [Hugo](https://gohugo.io/) and forked from the [Academic Kicstart repository](https://github.com/sourcethemes/academic-kickstart).
+The website is generated with [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/) website builder, using the [Academic theme](https://github.com/wowchemy/starter-hugo-academic).
 
-* [Documentation](https://sourcethemes.com/academic/docs/)
-* [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-* [Managing content](https://sourcethemes.com/academic/docs/managing-content/)
-* Ecosystem
-  * [Academic Admin](https://github.com/sourcethemes/academic-admin): An admin tool to import publications from BibTeX or import assets for an offline site
-  * [Academic Scripts](https://github.com/sourcethemes/academic-scripts): Scripts to help migrate content to new versions of Academic
+- [Documentation](https://wowchemy.com/docs/)
+- [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
 
 ## Note-to-self
 
@@ -18,8 +14,7 @@ The website is created using the [Academic theme](https://sourcethemes.com/acade
 The website is deployed to my user GitHub pages.
 
 It is automatically updated after pushing to this repository.
-This is implemented using GitHub Actions as described [here](https://www.jameswright.xyz/post/deploy-hugo-academic-using-githubio/).
-
+The implementation is inspired by [this blog post](https://www.jameswright.xyz/post/deploy-hugo-academic-using-githubio/), using [GitHub Actions for Hugo](https://github.com/peaceiris/actions-hugo).
 
 ### Editing the content
 
@@ -27,8 +22,7 @@ The content must be edited in THIS, **personal-website**, repository.
 Widgets in the main page can be edited in the [`content/home`](content/home) directory.
 Publications, talks, posts, etc. are in the corresponding folder in the content directory.
 
-Changes to the website can be checked by running `view.sh` or alternatively, in shell `hugo server --watch`.
-
+Changes to the website can be checked by running `./view.sh` or alternatively, in shell `hugo server --watch`.
 
 ## License
 
