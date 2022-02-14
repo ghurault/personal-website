@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Can serum biomarkers predict the outcome of systemic therapy for atopic dermatitis?"
+title: "Can serum biomarkers predict the outcome of systemic immunosuppressive therapy in adult atopic dermatitis patients?"
 authors: ["admin", "E. Roekevisch", "M.E. Schram", "K. Szegedi", "S. Kezic", "M.A. Middelkamp-Hup", "P.I. Spuls", "R.J. Tanaka"]
 date: 2022-01-07T12:00:00Z
 doi: "10.1002/ski2.77"
