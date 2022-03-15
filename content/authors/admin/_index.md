@@ -6,7 +6,7 @@ title: Guillem Hurault
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Biomedical Engineering
+  - course: PhD in Statistical Machine Learning
     institution: Imperial College London (UK)
     year: 2022
   - course: Master in Engineering
@@ -75,6 +75,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a research assistant and PhD student in the [Biological Control Systems Lab](http://www.bg.ic.ac.uk/research/r.tanaka/index.html), under the supervision of [Dr Reiko Tanaka](https://www.imperial.ac.uk/people/r.tanaka), in the Department of Bioengineering of Imperial College London.
+I am a research assistant and PhD researcher in the [Biological Control Systems Lab](https://rtanaka.bg-research.cc.ic.ac.uk/), under the supervision of [Dr Reiko Tanaka](https://www.imperial.ac.uk/people/r.tanaka), in the Department of Bioengineering of Imperial College London.
 
 My research is on the development of statistical machine learning models to predict and control eczema, with a particular interest in Bayesian statistics and time-series forecasting.
