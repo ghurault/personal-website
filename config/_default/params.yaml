@@ -7,14 +7,13 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: native
 font_size: L
 
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
+# org_name: '' # Default to website name in config.yaml
 description: 'Guillem Hurault personal website'
 twitter: 'ghurault'
 
@@ -49,7 +48,7 @@ main_menu:
 
 # Localization
 
-date_format: '02 Jan 2006	'
+date_format: '02 Jan 2006'
 time_format: '15:04'
 address_format: en-gb
 
@@ -62,7 +61,7 @@ math: false
 diagram: false
 privacy_pack: true
 edit_page:
-  repo_url: ''
+  repo_url: 'https://github.com/ghurault/personal-website'
   content_dir: ''
   repo_branch: main
   editable:
@@ -122,7 +121,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'google'
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
 marketing:
