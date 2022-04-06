@@ -15,15 +15,36 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: formspree
     formspree:
       id: xoppqvqm
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+
+  # Contact details (edit or remove options as required)
+  #email: 
+  #phone: 
+  #address:
+  #  street: 
+  #  city: 
+  #  region: 
+  #  postcode: 
+  #  country: 
+  #  country_code: 
+  #coordinates:
+  #  latitude: 
+  #  longitude: 
+  #directions: 
+  #office_hours:
+  #  - 'Monday 10:00 to 13:00'
+  #  - 'Wednesday 09:00 to 10:00'
+  #appointment_url: 
+  #contact_links:
+  #  - icon: twitter
+  #    icon_pack: fab
+  #    name: DM Me
+  #    link: 'https://twitter.com/ghurault'
   
 design:
   columns: '2'
