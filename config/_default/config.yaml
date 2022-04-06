@@ -4,8 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Guillem Hurault # Website name
-baseurl: 'https://ghurault.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseURL: 'https://ghurault.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -67,3 +66,11 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  _merge: deep
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+sitemap:
+  _merge: deep
