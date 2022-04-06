@@ -6,7 +6,8 @@ summary: "Making streetmaps using OpenStreetMap and ggplot2 in R."
 authors: ["G. Hurault"]
 tags: []
 categories: []
-date: 2020-01-08T12:00:00+01:00
+date: 2020-01-08
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/ghurault/Streetmaps"

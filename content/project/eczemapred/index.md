@@ -6,7 +6,8 @@ summary: "R package to predict eczema."
 authors: ["G. Hurault"]
 tags: []
 categories: []
-date: 2021-10-11T19:05:46+01:00
+date: 2021-10-11
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://ghurault.github.io/EczemaPred/"

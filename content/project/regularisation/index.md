@@ -6,7 +6,8 @@ summary: "Case study comparing different regularisation methods for statistics a
 authors: ["G. Hurault"]
 tags: []
 categories: []
-date: 2019-01-24T12:00:00+01:00
+date: 2019-01-24
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/ghurault/regularisation"

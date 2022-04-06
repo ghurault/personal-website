@@ -6,7 +6,8 @@ summary: "Modelling football outcomes in Stan."
 authors: ["G. Hurault"]
 tags: []
 categories: []
-date: 2019-11-26T12:00:00+01:00
+date: 2019-11-26
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/ghurault/football-prediction"

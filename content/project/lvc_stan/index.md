@@ -6,7 +6,8 @@ summary: "Fitting a two-species Lokta-Volterra competition model using data from
 authors: ["G. Hurault"]
 tags: []
 categories: []
-date: 2019-04-12T12:00:00+01:00
+date: 2019-04-12
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/ghurault/lvc_stan"

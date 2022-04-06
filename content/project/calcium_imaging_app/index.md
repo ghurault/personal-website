@@ -6,7 +6,8 @@ summary: "Shiny app for calcium imaging curve analysis."
 authors: ["G. Hurault"]
 tags: []
 categories: []
-date: 2019-05-01T12:00:00+01:00
+date: 2019-05-01
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://ghurault.shinyapps.io/calcium_imaging_app/"

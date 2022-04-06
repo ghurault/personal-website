@@ -6,7 +6,8 @@ summary: "Key findings from my PhD project."
 authors: ["admin"]
 tags: []
 categories: []
-date: 2022-06-01T12:00:00+00:00
+date: 2022-06-01
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
