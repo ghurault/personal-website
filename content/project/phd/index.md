@@ -2,11 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PhD project"
-summary: "Key findings from my PhD project."
+summary: "Towards a data-driven personalised management of Atopic Dermatitis severity."
 authors: ["admin"]
 tags: []
 categories: []
-date: 2022-06-01
+# publish when ready
+date: 2022-10-01
 show_date: false
 
 # Optional external URL for project (replaces project detail page).
@@ -41,33 +42,44 @@ url_video: ""
 slides: ""
 ---
 
-**WORK IN PROGRESS**
+## Abstract
 
-The aim of my PhD project is to develop a data-driven pipeline to enable personalised medicine for eczema (Atopic Dermatitis, AD), notably predicting the short-term evolution of eczema severity.
+Atopic Dermatitis (AD, eczema) is a common inflammatory skin disease, characterised by dry and itchy skin.
+AD cannot be cured, but its long-term outcomes can be managed with treatments.
+Given the heterogeneity in patients' responses to treatment, designing personalised rather than "one-size-fits-all" treatment strategies is of high clinical relevance.
+In this thesis, we aim to pave the way towards a data-driven personalised management of AD severity, whereby severity data would be collected automatically from photographs without the need for patients to visit a clinic, be used to predict the evolution of AD severity, and generate personalised treatment recommendations.
 
-In this page, I summarise the key take-aways from my project:
+First, we developed EczemaNet[^2020-eczemanet], a computer vision pipeline using convolution neural networks that detects areas of AD from photographs and then makes probabilistic assessments of AD severity.
+EczemaNet was internally validated with a medium-size dataset of images collected in a published clinical trial and demonstrated fair performance.
 
-- We developed a computer vision pipeline, EczemaNet, to perform automatic assessments of eczema severity from camera images [^2020-eczemanet].
-- We demonstrated the possibility and the difficulty of predicting the evolution of eczema severity [^2020-mechanistic-ml].
-- We found no evidence that biomarkers [^2020-ssm-biomarkers] or environmental factors [^2020-pollution] measurements can help predict future eczema severity.
-- We also showed biomarkers are bad substitutes for measuring eczema severity [^2021-croatian] [^2021-jesper].
-- ...
+Then, we developed models predicting the daily to weekly evolution of AD severity[^2020-mechanistic-ml].
+We highlighted the challenges of extracting signals from noisy severity data, with small and practically not significant effects of environmental factors[^2020-pollution] and biomarkers[^2020-ssm-biomarkers] on prediction.
+We showed the importance of using high-quality measurements of validated and objective (vs subjective) severity scores.
+We also stressed the importance of modelling individual severity items rather than aggregate scores, and introduced EczemaPred[^2022-eczemapred], a principled approach to predict AD severity using Bayesian state-space models.
+Our models are flexible by design, interpretable and can quantify uncertainty in measurements, parameters and predictions.
+The models demonstrated good performance to predict the Patient-Oriented SCOring AD (PO-SCORAD).
+
+Finally, we generated personalised treatment recommendations using Bayesian decision analysis.
+We observed that treatment effects and recommendations could be confounded by the clinical phenotype of patients.
+We also pretrained our model using historical data and combined clinical and self-assessments.
+
+In conclusion, we have demonstrated the feasibility and the challenges of a data-driven personalised management of AD severity.
+
+
+**The link to my thesis will be made available**
 
 <!---
 
 - We demonstrated that eczema segmentation data are not reliable and could result in biases in algorithms assessing eczema severity from digital images [^irr-images].
-- We developed a computational framework, EczemaPred, available as a R package, to develop models for predicting eczema severity[^eczemapred-poscorad].
-- We showed the importance of the measurement instrument in predicting eczema severity, and that "objective" scores measuring physical signs of eczema[^eczemapred-poscorad] are easier to predict than "subjective" scores measuring symptoms as experienced by patients[^eczemapred-poem].
-- We used Bayesian Decision Analysis to generate personalised treatment recommendations[^eczematreat].
-- We demonstrated how we can improve the quality of high-frequency but low-quality severity self-assessments using low-frequency but high-quality clinical severity assessments[^eczematreat].
+- We also showed biomarkers are bad substitutes for measuring eczema severity [^2021-croatian] [^2021-jesper].
 
-[^irr-images]: ...
+[^2021-croatian]: [R. Jurakic Toncic, I. Jakasa, Y. Sun, **G. Hurault**, S. Ljubojevic Hadzavdic, R. J. Tanaka, S. Kezic and B. Marinovic,
+"Stratum corneum markers of innate and T helper cell-related immunity and their relation to the disease severity in Croatian patients with atopic dermatitis",
+*Journal of the European Academy of Dermatology \& Venereology*, 2021](https://doi.org/10.1111/jdv.17132)
 
-[^eczemapred-poscorad]: ...
-
-[^eczemapred-poem]: ...
-
-[^eczematreat]: ...
+[^2021-jesper]: [J. G. Holm, **G. Hurault**, T. Agner, M.L. Clausen, S. Kezic, R. J. Tanaka, S. F. Thomsen,
+"Immunoinflammatory Biomarkers in Serum Are Associated with Disease Severity in Atopic Dermatitis",
+*Dermatology*, 2021](https://doi.org/10.1159/000514503)
 
 --->
 
@@ -85,15 +97,10 @@ In this page, I summarise the key take-aways from my project:
 "Can serum biomarkers predict the outcome of systemic therapy for atopic dermatitis?",
 *MedRxiv (preprint)*, 2020.](https://doi.org/10.1101/2020.12.02.20242404)
 
-[^2021-croatian]: [R. Jurakic Toncic, I. Jakasa, Y. Sun, **G. Hurault**, S. Ljubojevic Hadzavdic, R. J. Tanaka, S. Kezic and B. Marinovic,
-"Stratum corneum markers of innate and T helper cell-related immunity and their relation to the disease severity in Croatian patients with atopic dermatitis",
-*Journal of the European Academy of Dermatology \& Venereology*, 2021](https://doi.org/10.1111/jdv.17132)
-
-[^2021-jesper]: [J. G. Holm, **G. Hurault**, T. Agner, M.L. Clausen, S. Kezic, R. J. Tanaka, S. F. Thomsen,
-"Immunoinflammatory Biomarkers in Serum Are Associated with Disease Severity in Atopic Dermatitis",
-*Dermatology*, 2021](https://doi.org/10.1159/000514503)
-
 [^2020-pollution]: [**G. Hurault**, V. Delorieux, Y-M. Kim, K. Ahn, H. Williams and R. J. Tanaka,
 "Impact of environmental factors in predicting daily severity scores of atopic dermatitis",
 *Clinical and Translational Allergy, vol. 11, no. 2*, 2021](https://doi.org/10.1002/clt2.12019)
 
+[^2022-eczemapred]: [**G. Hurault**, J-F Stalder, S. Mery, A. Delarue, M. Saint Aroma, G. Josse and R. J. Tanaka,
+"EczemaPred: A computational framework for personalised prediction of eczema severity dynamics",
+*Clinical and Translational Allergy*, 2022, vol. 12, no. 3, p. e12140.](https://doi.org/10.1002/clt2.12140)
