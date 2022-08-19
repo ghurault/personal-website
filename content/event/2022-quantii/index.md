@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Title TBC"
+title: "Applications of Machine Learning in medical research"
 event: "QuanTII Summer Workshop"
 event_url: "https://quantii.leeds.ac.uk/summer-workshop-london/"
 location: "Imperial College London"
