@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Public speaking
-    url: '#talks'
+    url: 'event'
     weight: 40
   - name: Contact
     url: 'contact'
