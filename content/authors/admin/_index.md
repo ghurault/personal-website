@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact' # 'mailto:guillem.hurault@hotmail.fr'
+  link: '/contact' # 'mailto:guillem.hurault@hotmail.fr'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ghurault/
