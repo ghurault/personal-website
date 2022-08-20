@@ -7,7 +7,7 @@ authors: ["admin"]
 tags: []
 categories: []
 # publish when ready
-date: 2022-10-01
+date: 2022-06-01
 show_date: false
 
 # Optional external URL for project (replaces project detail page).
@@ -19,7 +19,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -65,23 +65,7 @@ We also pretrained our model using historical data and combined clinical and sel
 
 In conclusion, we have demonstrated the feasibility and the challenges of a data-driven personalised management of AD severity.
 
-
-**The link to my thesis will be made available**
-
-<!---
-
-- We demonstrated that eczema segmentation data are not reliable and could result in biases in algorithms assessing eczema severity from digital images [^irr-images].
-- We also showed biomarkers are bad substitutes for measuring eczema severity [^2021-croatian] [^2021-jesper].
-
-[^2021-croatian]: [R. Jurakic Toncic, I. Jakasa, Y. Sun, **G. Hurault**, S. Ljubojevic Hadzavdic, R. J. Tanaka, S. Kezic and B. Marinovic,
-"Stratum corneum markers of innate and T helper cell-related immunity and their relation to the disease severity in Croatian patients with atopic dermatitis",
-*Journal of the European Academy of Dermatology \& Venereology*, 2021](https://doi.org/10.1111/jdv.17132)
-
-[^2021-jesper]: [J. G. Holm, **G. Hurault**, T. Agner, M.L. Clausen, S. Kezic, R. J. Tanaka, S. F. Thomsen,
-"Immunoinflammatory Biomarkers in Serum Are Associated with Disease Severity in Atopic Dermatitis",
-*Dermatology*, 2021](https://doi.org/10.1159/000514503)
-
---->
+**The link to my thesis will be made available soon**
 
 ## References
 
