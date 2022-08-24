@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: "uploads/2022_08_QuanTII_Summer_Workshop.pdf"
 url_video:
 
 # Markdown Slides (optional).
