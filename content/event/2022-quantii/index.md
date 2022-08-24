@@ -4,7 +4,7 @@
 title: "Applications of Machine Learning in medical research"
 event: "QuanTII Summer Workshop"
 event_url: "https://quantii.leeds.ac.uk/summer-workshop-london/"
-location: "Imperial College London"
+location: "St Mary's Campus, Imperial College London"
 address:
   street: 
   city: "London"
