@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2022-08-09T18:49:27+01:00
 
 authors: ["admin"]
-tags: []
+tags: ["talk"]
 
 # Is this a featured event? (true/false)
 featured: false
