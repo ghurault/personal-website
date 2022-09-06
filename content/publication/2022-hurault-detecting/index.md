@@ -16,7 +16,7 @@ publishDate: 2022-03-09
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "in press at JID Innovations"
+publication: "JID Innovations"
 publication_short: ""
 
 abstract: "
