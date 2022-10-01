@@ -6,12 +6,12 @@ title: Guillem Hurault
 superuser: true
 
 # Role/position/tagline
-role: Data Science Researcher
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Imperial College London
-  url: "https://www.imperial.ac.uk/"
+- name: Pythia Sports
+  url: "https://www.pythiasports.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -21,7 +21,6 @@ interests:
 - Statistical Machine Learning
 - Bayesian modelling
 - Time-series forecasting
-- Atopic Dermatitis (eczema)
 - Open science
 
 # Education to show in About widget
@@ -60,6 +59,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Jjv2KGQAAAAJ&hl
+#- icon: stackoverflow
+#  icon_pack: ai
+#  link: https://stats.stackexchange.com/users/175484/guillem
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -75,6 +77,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a research associate in the [Biological Control Systems Lab](https://rtanaka.bg-research.cc.ic.ac.uk/), led by [Dr Reiko Tanaka](https://www.imperial.ac.uk/people/r.tanaka), in the Department of Bioengineering of Imperial College London.
+I am a data scientist at [Pythia Sports](https://www.pythiasports.com/) working on sport analytics.
 
-My research is on the development of statistical machine learning models to predict and control eczema, with a particular interest in Bayesian statistics and time-series forecasting.
+Previously, I was as a researcher in the [Biological Control Systems Lab](https://rtanaka.bg-research.cc.ic.ac.uk/) at [Imperial College London](https://imperial.ac.uk/), developing statistical machine learning models to predict and control eczema.
