@@ -1,8 +1,8 @@
-# Academic website builder
+# Personal website
 
 Code to generate my personal website, hosted at https://ghurault.github.io/.
 
-The website is generated with [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/) website builder, using the [Academic theme](https://github.com/wowchemy/starter-hugo-academic).
+The website is generated using [Wowchemy](https://wowchemy.com/) v5.7.0 ([Academic theme](https://github.com/wowchemy/starter-hugo-academic)) and [Hugo](https://gohugo.io/) Extended v101.0.
 
 - [Documentation](https://wowchemy.com/docs/)
 - [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
@@ -18,11 +18,11 @@ The implementation is inspired by [this blog post](https://www.jameswright.xyz/p
 
 ### Editing the content
 
-The content must be edited in THIS, **personal-website**, repository.
+The content must be edited in **THIS** repository (`personal-website`).
 Widgets in the main page can be edited in the [`content/home`](content/home) directory.
 Publications, talks, posts, etc. are in the corresponding folder in the content directory.
 
-Changes to the website can be checked by running `./view.sh` or alternatively, in shell `hugo server --watch`.
+Changes to the website can be checked by running `./view.sh` or alternatively, in shell `hugo server`.
 
 ## License
 
