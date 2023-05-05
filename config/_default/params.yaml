@@ -22,6 +22,7 @@ marketing:
     twitter: 'ghurault'
   analytics:
     google_analytics: 'G-DYGYFM7T03'
+    google_tag_manager: 'G-DYGYFM7T03'
     baidu_tongji: ''
   verification:
     google: ''
