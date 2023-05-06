@@ -21,6 +21,8 @@ interests:
 - Statistical Machine Learning
 - Bayesian modelling
 - Time-series forecasting
+- Causal inference
+- Decision-making
 - Open science
 
 # Education to show in About widget
@@ -46,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact' # 'mailto:guillem.hurault@hotmail.fr'
+  link: '/contact'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ghurault/
@@ -79,4 +81,4 @@ highlight_name: true
 
 I am a data scientist at [Pythia Sports](https://www.pythiasports.com/) working on sport analytics.
 
-Previously, I was as a researcher in the [Biological Control Systems Lab](https://rtanaka.bg-research.cc.ic.ac.uk/) at [Imperial College London](https://imperial.ac.uk/), developing statistical machine learning models to predict and control eczema.
+Previously, I was a researcher in the [Biological Control Systems Lab](https://rtanaka.bg-research.cc.ic.ac.uk/) at [Imperial College London](https://imperial.ac.uk/), developing statistical and machine learning models to predict and control eczema.
