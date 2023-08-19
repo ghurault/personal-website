@@ -11,7 +11,7 @@ date: 2022-06-01
 show_date: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://hdl.handle.net/10044/1/105985"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -23,14 +23,12 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+# - name: DOI
+#   url: https://doi.org/10.25560/105985
 
 url_code: ""
-url_pdf: ""
+# url_pdf: "http://hdl.handle.net/10044/1/105985"
 url_slides: ""
 url_video: ""
 
@@ -65,8 +63,6 @@ We also pretrained our model using historical data and combined clinical and sel
 
 In conclusion, we have demonstrated the feasibility and the challenges of a data-driven personalised management of AD severity.
 
-**The link to my thesis will be made available soon**
-
 ## References
 
 [^2020-eczemanet]: [K. Pan,  **G. Hurault**, K. Arulkumaran, H. Williams and R. J. Tanaka,
@@ -78,8 +74,8 @@ In conclusion, we have demonstrated the feasibility and the challenges of a data
 *Clinical \& Experimental Allergy*, vol. 50, no. 11, pp. 1258–1266, 2020](https://doi.org/10.1111/cea.13717)
 
 [^2020-ssm-biomarkers]: [**G. Hurault**, E. Roekevisch, M.E. Schram, K. Szegedi, S. Kezic, M.A. Middelkamp-Hup, P.I. Spuls and R. J. Tanaka,
-"Can serum biomarkers predict the outcome of systemic therapy for atopic dermatitis?",
-*MedRxiv (preprint)*, 2020.](https://doi.org/10.1101/2020.12.02.20242404)
+"Can serum biomarkers predict the outcome of systemic immunosuppressive therapy in adult atopic dermatitis patients?",
+*Skin and Health Disease*, vol. 2, no. 1, p. e77, 2022.](https://doi.org/10.1002/ski2.77)
 
 [^2020-pollution]: [**G. Hurault**, V. Delorieux, Y-M. Kim, K. Ahn, H. Williams and R. J. Tanaka,
 "Impact of environmental factors in predicting daily severity scores of atopic dermatitis",
