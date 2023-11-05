@@ -10,10 +10,7 @@ doi: "10.1164/rccm.202110-2418OC"
 publishDate: 2022-06-28
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "American Journal of Respiratory and Critical Care Medicine"

@@ -11,17 +11,7 @@ publishDate = 2019-05-20T18:24:25+01:00
 authors = ["admin", "M.E. Schram", "E. Roekevisch", "P.I. Spuls", "R.J. Tanaka"]
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Preprint / Working Paper
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-# 7 = Thesis
-# 8 = Patent
-publication_types = ["2"]
+publication_types = ["article-journal"]
 
 # Publication name and optional abbreviated version.
 publication = "British Journal of Dermatology, vol. 179, no. 4, pp. 1003-1005"
