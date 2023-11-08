@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-hugo-academic
+module github.com/ghurault/personal-website
 
 go 1.15
 
