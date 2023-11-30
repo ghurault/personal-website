@@ -2,10 +2,10 @@
 
 Code to generate my personal website, hosted at https://ghurault.github.io/.
 
-The website is generated using [Wowchemy](https://wowchemy.com/) ([Academic theme](https://github.com/wowchemy/starter-hugo-academic)) and [Hugo Extended](https://gohugo.io/).
+The website is generated using [Hugo Blox](https://hugoblox.com/) ([Academic theme](https://github.com/HugoBlox/hugo-blox-builder/tree/main/starters/academic-cv)) and [Hugo Extended](https://gohugo.io/).
 
-- [Documentation](https://wowchemy.com/docs/)
-- [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+- [Documentation](https://docs.hugoblox.com/)
+- [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
 
 ## Note-to-self
 
@@ -22,10 +22,10 @@ The content must be edited in **THIS** repository ([`personal-website`](https://
 Widgets in the main page can be edited in the [`content/home`](content/home) directory.
 Publications, talks, posts, etc. are in the corresponding folder in the content directory.
 
-Changes to the website can be checked by running `./view.sh` or alternatively, in shell `hugo server`.
+Changes to the website can be checked by running `./view.sh` or using the `hugo server` command in the shell.
 
 ## License
 
 Copyright 2017-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/HugoBlox/theme-academic-cv/blob/main/LICENSE.md) license.
