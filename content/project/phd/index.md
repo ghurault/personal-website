@@ -6,9 +6,11 @@ summary: "Towards a data-driven personalised management of Atopic Dermatitis sev
 authors: ["admin"]
 tags: []
 categories: []
-# publish when ready
 date: 2022-06-01
 show_date: false
+
+# Alternatively/Additionally add this as a publication
+# publication_types: ["thesis"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://hdl.handle.net/10044/1/105985"
