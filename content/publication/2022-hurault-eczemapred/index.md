@@ -19,7 +19,7 @@ publication_short: "Clinical and Translational Allergy"
 abstract: "
 **Background**: Atopic dermatitis (AD) is a chronic inflammatory skin disease leading to substantial quality of life impairment with heterogeneous treatment responses.
 People with AD would benefit from personalised treatment strategies, whose design requires predicting how AD severity evolves for each individual.
-Objective: This study aims to develop a computational framework for personalised prediction of AD severity dynamics.
+**Objective**: This study aims to develop a computational framework for personalised prediction of AD severity dynamics.
 **Methods**: We introduced EczemaPred, a computational framework to predict patient-dependent dynamic evolution of AD severity using Bayesian state-space models that describe latent dynamics of AD severity items and how they are measured.
 We used EczemaPred to predict the dynamic evolution of validated patient-oriented scoring atopic dermatitis (PO-SCORAD) by combining predictions from the models for the nine severity items of PO-SCORAD (six intensity signs, extent of eczema, and two subjective symptoms).
 We validated this approach using longitudinal data from two independent studies: a published clinical study in which PO-SCORAD was measured twice weekly for 347 AD patients over 17 weeks, and another one in which PO-SCORAD was recorded daily by 16 AD patients for 12 weeks.
@@ -31,7 +31,7 @@ EczemaPred is available as an R package.
 "
 
 # Summary. An optional shortened abstract.
-summary: "Prediction of the patient-pecific dynamic evolution of AD severity by EczemaPred will help manage and anticipate fluctuating disease symptoms, contributing to personalised medicine."
+summary: "Prediction of the patient-specific dynamic evolution of AD severity by EczemaPred will help manage and anticipate fluctuating disease symptoms, contributing to personalised medicine."
 
 tags: ["atopic dermatitis", "bayesian model", "machine learning", "po-scorad", "prediction"]
 categories: []
