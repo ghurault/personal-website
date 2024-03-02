@@ -30,7 +30,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 
 url_pdf:
-url_code: ""
+url_code: "https://github.com/ghurault/EczemaTreat"
 url_dataset:
 url_poster:
 url_project:
