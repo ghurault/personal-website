@@ -18,11 +18,11 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Statistical Machine Learning
+- Statistics & Machine Learning
 - Bayesian modelling
 - Time-series forecasting
-- Causal inference
-- Open science
+- Decision analysis
+- Software engineering
 
 # Education to show in About widget
 education:
@@ -51,18 +51,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ghurault/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ghurault
 - icon: github
   icon_pack: fab
   link: https://github.com/ghurault
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Jjv2KGQAAAAJ&hl
-#- icon: stackoverflow
-#  icon_pack: ai
-#  link: https://stats.stackexchange.com/users/175484/guillem
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
