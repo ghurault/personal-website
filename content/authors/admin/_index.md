@@ -6,12 +6,12 @@ title: Guillem Hurault
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Senior Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Pythia Sports
-  url: "https://www.pythiasports.com/"
+- name: CFP Energy
+  url: "https://www.cfp.energy/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -72,6 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a data scientist at [Pythia Sports](https://www.pythiasports.com/) working on sport analytics.
+I am Senior Data Scientist at [CFP Energy](https://www.cfp.energy/) where I develop statistical and machine learning models to forecast electricity prices.
 
-Previously, I was a researcher in the [Biological Control Systems Lab](https://rtanaka.bg-research.cc.ic.ac.uk/) at [Imperial College London](https://imperial.ac.uk/), developing statistical and machine learning models to predict and control eczema.
+Before this, I worked as a Data Scientist at [Pythia Sports](https://www.pythiasports.com/) to predict the outcome of sport events.
+I started my career as a researcher at [Imperial College London](https://imperial.ac.uk/) in the [Biological Control Systems Lab](https://www.rtanakagroup.com/) specialising in Bayesian modelling and time-series to predict and control eczema.
