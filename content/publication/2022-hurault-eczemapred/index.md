@@ -35,7 +35,7 @@ summary: "Prediction of the patient-specific dynamic evolution of AD severity by
 
 tags: ["atopic dermatitis", "bayesian model", "machine learning", "po-scorad", "prediction"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

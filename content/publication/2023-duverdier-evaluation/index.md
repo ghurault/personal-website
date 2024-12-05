@@ -39,7 +39,7 @@ Recall errors should be considered when interpreting POEM scores. More research 
 
 tags: ["atopic dermatitis", "measurement error", "POEM", "recall bias", "recall noise"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
