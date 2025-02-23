@@ -72,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Senior Data Scientist at [CFP Energy](https://www.cfp.energy/) where I develop statistical and machine learning models to forecast electricity prices.
+I am a Senior Data Scientist at [CFP Energy](https://www.cfp.energy/) where I develop statistical and machine learning models to forecast electricity prices and demand.
 
 Before this, I worked as a Data Scientist at [Pythia Sports](https://www.pythiasports.com/) to predict the outcome of sports events.
 I started my career as a researcher at [Imperial College London](https://imperial.ac.uk/) in the [Biological Control Systems Lab](https://www.rtanakagroup.com/) specialising in Bayesian modelling and time-series to predict and control eczema.
