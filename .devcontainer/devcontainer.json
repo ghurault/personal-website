@@ -23,7 +23,6 @@
 		"vscode": {
 			"extensions": [
 				"yzhang.markdown-all-in-one",
-				"waderyan.gitblame",
 				"mhutchie.git-graph"
 			]
 		}
