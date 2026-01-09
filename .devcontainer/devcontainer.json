@@ -22,8 +22,11 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"yzhang.markdown-all-in-one",
-				"mhutchie.git-graph"
+				"esbenp.prettier-vscode",
+				"davidanson.vscode-markdownlint",
+				"mhutchie.git-graph",
+				"tekumara.typos-vscode",
+				"yzhang.markdown-all-in-one"
 			]
 		}
 	}
