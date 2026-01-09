@@ -1,6 +1,6 @@
 # Personal website
 
-Code to generate my personal website, hosted at https://ghurault.github.io/.
+Code to generate my personal website, hosted at <https://ghurault.github.io/>.
 
 The website is generated using [Hugo Blox](https://hugoblox.com/) ([Academic theme](https://github.com/HugoBlox/hugo-blox-builder/tree/main/starters/academic-cv)) and [Hugo Extended](https://gohugo.io/).
 
