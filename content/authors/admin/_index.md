@@ -9,9 +9,9 @@ superuser: true
 role: Senior Data Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: CFP Energy
-    url: "https://www.cfp.energy/"
+# organizations:
+#   - name:
+#     url:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -22,7 +22,8 @@ interests:
   - Bayesian modelling
   - Time-series forecasting
   - Decision analysis
-  - Software engineering
+  - MLOps
+  - Software Engineering
 
 # Education to show in About widget
 education:
@@ -72,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Senior Data Scientist at [CFP Energy](https://www.cfp.energy/) where I develop statistical and machine learning models to forecast electricity prices and demand.
+I am a Senior Data Scientist working in sport analytics to predict the outcome of sports events.
 
-Before this, I worked as a Data Scientist at [Pythia Sports](https://www.pythiasports.com/) to predict the outcome of sports events.
-I started my career as a researcher at [Imperial College London](https://imperial.ac.uk/) in the [Biological Control Systems Lab](https://www.rtanakagroup.com/) specialising in Bayesian modelling and time-series to predict and control eczema.
+Before this, I worked as a Data Scientist in the renewable energy sector to forecast electricity demand, generation and prices.
+I started my career as a researcher at [Imperial College London](https://imperial.ac.uk/) in the [Biological Control Systems Lab](https://www.rtanakagroup.com/), developing predictive models for eczema.
