@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Senior Data Scientist working in sport analytics to predict the outcome of sports events.
+I am a Senior Data Scientist working in sports analytics developing statistical and Machine Learning models to predict the outcome of sports events.
 
 Before this, I worked as a Data Scientist in the renewable energy sector to forecast electricity demand, generation and prices.
 I started my career as a researcher at [Imperial College London](https://imperial.ac.uk/) in the [Biological Control Systems Lab](https://www.rtanakagroup.com/), developing predictive models for eczema.
